@@ -71,7 +71,7 @@ This step maps genes from different species into a **shared metagene space** and
 ### Step 2: Cross-Species Cell Alignment
 
 ```bash
-python train_sensitivity_ablation.py
+python MetaCellFormer.py
 ```
 
 This step aligns cells across species so that:
